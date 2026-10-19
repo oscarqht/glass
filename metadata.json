@@ -1,0 +1,8 @@
+{
+  "name": "FluidGlass",
+  "description": "Interactive WebGL2 SDF refraction and fluid glass rendering demo with customizable shapes, materials, and physics.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
